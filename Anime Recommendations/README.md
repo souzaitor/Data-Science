@@ -107,7 +107,7 @@ Para usar Sistema de Recomendação de Animes, siga estas etapas:
 
 ## 🤝 Contribuindo com o Projeto
 <!---Se o seu README for longo ou se você tiver algum processo ou etapas específicas que deseja que os contribuidores sigam, considere a criação de um arquivo CONTRIBUTING.md separado--->
-Para contribuir com <nome_do_projeto>, siga estas etapas:
+Para contribuir com o projeto, siga estas etapas:
 
 1. Bifurque este repositório.
 2. Crie um branch: `git checkout -b <nome_branch>`.
@@ -126,7 +126,7 @@ Como alternativa, consulte a documentação do GitHub em [como criar uma solicit
 
 ## 📝 Licença
 
-Esse projeto é distribuído pela MIT License. Veja (LICENSE.txt)[https://github.com/souzaitor/Data-Science/blob/main/LICENSE] para mais informações.
+Esse projeto é distribuído pela MIT License. Veja [LICENSE.txt](https://github.com/souzaitor/Data-Science/blob/main/LICENSE) para mais informações.
 
 <p align="right">(<a href="#top">⬆️ Voltar ao Topo</a>)</p>
 
