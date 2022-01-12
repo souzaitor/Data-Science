@@ -151,14 +151,9 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Lista de materiais e conteúdos que foram importantes para o desenvolvimento do projeto:
 
-* [Choose an Open Source License](https://choosealicense.com)
-* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
-* [Malven's Flexbox Cheatsheet](https://flexbox.malven.co/)
-* [Malven's Grid Cheatsheet](https://grid.malven.co/)
-* [Img Shields](https://shields.io)
-* [GitHub Pages](https://pages.github.com)
-* [Font Awesome](https://fontawesome.com)
-* [React Icons](https://react-icons.github.io/react-icons/search)
+* [MyAnimeList Database 2020](https://github.com/Hernan4444/MyAnimeList-Database/tree/master/data)
+* [Similaridade por cosseno](https://pt.wikipedia.org/wiki/Similaridade_por_cosseno)
+* [O que é um sistema de recomendação](https://www.smarthint.co/o-que-e-um-sistema-de-recomendacao/#04)
 
 <p align="right">(<a href="#top">⬆️ Voltar ao Topo</a>)</p>
 
