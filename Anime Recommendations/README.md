@@ -24,6 +24,11 @@
 
 ## 💻 Sobre o projeto
 
+Esse sistema implementa um sistema de **Recomendações Colaborativas de Animes**: O usuário receberá recomendações de animes que pessoas com gostos similares aos dele preferiram no passado, com base no banco de dados do **MyAnimeList**.
+
+**MyAnimeList**, muitas vezes abreviado para MAL, é uma rede social focado nos consumidores de animes e mangás, na qual possui como maior característica a possibilidade de seus usuários criarem uma lista pessoal para que possam catalogar as obras e classificar-las através de notas.
+
+Informações detalhadas sobre o cojunto de dados podem ser encontradas em: https://www.kaggle.com/hernan4444/anime-recommendation-database-2020.
 
 <p align="right">(<a href="#top">⬆️ Voltar ao Topo</a>)</p>
 
@@ -32,13 +37,10 @@
 
 ## 🗺️ Roadmap
 
-O projeto ainda está em desenvolvimento e as atualizações realizas e a proxserão voltadas nas seguintes tarefas:
+Próximas atualizações e tarefas:
 
-- [x] Tarefa 1
-- [x] Tarefa 2
-- [x] Tarefa 3
-- [ ] Tarefa 4
-- [ ] Tarefa 5
+- [ ] Utilizar ```read_csv()``` para um arquivo grande no Google Drive (Burlar verificação de vírus)
+
 
 <p align="right">(<a href="#top">⬆️ Voltar ao Topo</a>)</p>
 
@@ -48,12 +50,11 @@ O projeto ainda está em desenvolvimento e as atualizações realizas e a proxse
 ## 🛠 Tecnologias 
 As seguintes ferramentas foram usadas na construção do projeto:
 
--   **[]()**
--   **[]()**
--   **[]()**
--   **[]()**
--   **[]()**
--   **[]()**
+-   **[pandas](https://pandas.pydata.org/)**
+-   **[python](https://www.python.org/)**
+-   **[scikit-learn](https://scikit-learn.org/stable/)**
+-   **[ipywidgets](https://ipywidgets.readthedocs.io/en/latest/)**
+-   **[SciPy](https://scipy.org/)**
 
 <p align="right">(<a href="#top">⬆️ Voltar ao Topo</a>)</p>
 
@@ -65,10 +66,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 Antes de começar, verifique se você atendeu aos seguintes requisitos:
 <!---Estes são apenas requisitos de exemplo. Adicionar, duplicar ou remover conforme necessário--->
-* Você instalou a versão mais recente de `<linguagem / dependência / requeridos>`
-* Você tem uma máquina `<Windows / Linux / Mac>`. Indique qual sistema operacional é compatível / não compatível.
-* Você leu `<guia / link / documentação_relacionada_ao_projeto>`.
-
+* Você instalou o ```Jupyter Notebook``` ou vai executar o arquivo do projeto remotamente, como no ```Gogole Colab```
 
 <p align="right">(<a href="#top">⬆️ Voltar ao Topo</a>)</p>
 
@@ -77,17 +75,9 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 
 ## 📥 Instalando o Projeto
 
-Para instalar o <nome_do_projeto>, siga estas etapas:
-
-Linux e macOS:
-```
-<comando_de_instalação>
-```
-
-Windows:
-```
-<comando_de_instalação>
-```
+Para instalar o Sistema de Recomendação de Animes, siga estas etapas:
+* Fazer o Download dos Conjuntos de Dados, como mostra a documentação
+* Fazer o Download do arquivo Notebook
 
 <p align="right">(<a href="#top">⬆️ Voltar ao Topo</a>)</p>
 
@@ -96,13 +86,19 @@ Windows:
 
 ## 💻 Usando o Projeto
 
-Para usar <nome_do_projeto>, siga estas etapas:
+Para usar Sistema de Recomendação de Animes, siga estas etapas:
 
-```
-<exemplo_de_uso>
-```
+* Execute o arquivo Jupyter Notebook
+* Na seção 📈 Utilizando o Modelo, a biblioteca ipywidgets gera uma interface para acessar o modelo
+* Basta inserir um nome de anime no conjunto de dados e executar
 
-Adicione comandos de execução e exemplos que você acha que os usuários acharão úteis. Fornece uma referência de opções para pontos de bônus!
+![](https://github.com/souzaitor/Data-Science/blob/main/Anime%20Recommendations/run1.JPG)
+
+![](https://github.com/souzaitor/Data-Science/blob/main/Anime%20Recommendations/run2.JPG)
+
+![](https://github.com/souzaitor/Data-Science/blob/main/Anime%20Recommendations/run3.JPG)
+
+![](https://github.com/souzaitor/Data-Science/blob/main/Anime%20Recommendations/run4.JPG)
 
 <p align="right">(<a href="#top">⬆️ Voltar ao Topo</a>)</p>
 
@@ -130,7 +126,7 @@ Como alternativa, consulte a documentação do GitHub em [como criar uma solicit
 
 ## 📝 Licença
 
-Distributed under the MIT License. See `LICENSE.txt` for more information.
+Esse projeto é distribuído pela MIT License. Veja (LICENSE.txt)[https://github.com/souzaitor/Data-Science/blob/main/LICENSE] para mais informações.
 
 <p align="right">(<a href="#top">⬆️ Voltar ao Topo</a>)</p>
 
